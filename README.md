@@ -1,5 +1,3 @@
-# resources
-Provides documentation and BSP images for the Leez Single Board Computer products.
 ## 产品概述
 
 **Leez P710硬件规格书（包括接口布局和尺寸）**
@@ -9,18 +7,11 @@ Provides documentation and BSP images for the Leez Single Board Computer product
 * 链接: https://pan.baidu.com/s/1NPWbuI5csT4zftKUCnRs7g 
 * 提取码: rvrh 
 
-**入门教程**
-* 链接：https://github.com/leezsbc/resources/blob/master/Leez%20P710%E5%88%B7%E6%9C%BA%E6%96%87%E6%A1%A3.docx
+**新手入门必看**
+* 链接：https://pan.baidu.com/s/1LAt09YIZbWB_cFhbx-T3Yw 
+* 提取码: qpz4
 
-
-## 固件烧写
-
-**Leez P710二次开发指南**
-* 链接：
-https://github.com/leezsbc/resources/blob/master/Leez%20P710%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97%20-%20v1.0.pdf
-
-
-## 刷机工具
+## 刷机工具下载
 
 **DriverAssitant_v4.5_设备驱动**
 * 链接：https://pan.baidu.com/s/15pvlJSZF6jX2ZaKZnW5bcg 
