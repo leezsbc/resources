@@ -31,9 +31,14 @@
 
 ## OS Images
 
-**Android9.0_LZP_V003**
-* 链接：https://pan.baidu.com/s/1gTyc84xxchffx04eQHg8tA 
-* 提取码：rrs9 
+**Android9.0**
+
+* 链接: https://pan.baidu.com/s/1VuYCdsAs3yhbI2rXnYYE0Q
+* 提取码: i9yw
+
+**Android7.1**
+* 链接: https://pan.baidu.com/s/1PU2OmAsWGrfZ8SNTiBe5PA
+* 提取码: grqm
 
 **DebianFS_Leez**
 * 链接：https://pan.baidu.com/s/1zuHdeSB5fSz9P5MOBofjmQ 
