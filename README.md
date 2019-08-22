@@ -41,8 +41,9 @@
 * 提取码: grqm
 
 **DebianFS_Leez**
-* 链接：https://pan.baidu.com/s/1zuHdeSB5fSz9P5MOBofjmQ 
-* 提取码：2xyj
+
+* 链接：https://pan.baidu.com/s/1DSzWPoO3x_eipz7nxIFgog
+* 提取码：wnyn
 
 ## 常见Q&A
 
