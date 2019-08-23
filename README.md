@@ -7,16 +7,6 @@
 * 链接: https://pan.baidu.com/s/1NPWbuI5csT4zftKUCnRs7g 
 * 提取码: rvrh 
 
-## Sample APP
-
-**USB-Camera Test**
-* 链接: https://pan.baidu.com/s/1gSoMB4o0ZT0E7jdYd4j0NQ 
-* 提取码: 397i
-
-**Dual-Camera Test**
-* 链接: https://pan.baidu.com/s/1nZBPnwpjHmns0R-9thVh7Q 
-* 提取码: yc1t
-
 **新手入门必看**
 * 链接：https://pan.baidu.com/s/1LAt09YIZbWB_cFhbx-T3Yw 
 * 提取码: qpz4
@@ -54,6 +44,16 @@
 
 * 链接：https://pan.baidu.com/s/1DSzWPoO3x_eipz7nxIFgog
 * 提取码：wnyn
+
+## Sample APP
+
+**USB-Camera Test**
+* 链接: https://pan.baidu.com/s/1gSoMB4o0ZT0E7jdYd4j0NQ 
+* 提取码: 397i
+
+**Dual-Camera Test**
+* 链接: https://pan.baidu.com/s/1nZBPnwpjHmns0R-9thVh7Q 
+* 提取码: yc1t
 
 ## 常见Q&A
 
