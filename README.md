@@ -51,8 +51,9 @@
 * 链接: https://github.com/leez-SBC
 
 **Android9源码**
-* 链接: https://pan.baidu.com/s/1SrmU1moWKp9FXru8yIVChA 
-* 提取码：iomi
+* 链接: https://pan.baidu.com/s/1LjRMRSdT21Ik7BxCmvTL_g 
+* 提取码: 6amw 
+
 
 **Leez P710_SDK使用**
 * 链接: https://github.com/jackeyt/my_wiki/blob/master/docs/LeezPi-RK3399_SDK%E4%BD%BF%E7%94%A8.md
