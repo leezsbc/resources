@@ -32,13 +32,12 @@
 ## OS Images
 
 **Android9.0**
-
-* 链接: https://pan.baidu.com/s/1VuYCdsAs3yhbI2rXnYYE0Q
-* 提取码: i9yw
+* 链接: https://pan.baidu.com/s/1y5SQ8e0Orp4ku_C-apE9FQ
+* 提取码: 2hxj
 
 **Android7.1**
-* 链接: https://pan.baidu.com/s/1PU2OmAsWGrfZ8SNTiBe5PA
-* 提取码: grqm
+* 链接:https://pan.baidu.com/s/1SK_dSOxw1lRsmRcVPJmQbA
+* 提取码: u8im
 
 **DebianFS_Leez**
 
