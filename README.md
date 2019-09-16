@@ -49,6 +49,10 @@
 **Linux源码**
 * 链接: https://github.com/leez-SBC
 
+**Android7源码**
+* 链接: https://pan.baidu.com/s/1P2Y6JpaeULubfa91Pr0Y6w 
+* 提取码: w2id
+
 **Android9源码**
 * 链接: https://pan.baidu.com/s/1LjRMRSdT21Ik7BxCmvTL_g 
 * 提取码: 6amw 
