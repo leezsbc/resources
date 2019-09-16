@@ -8,8 +8,8 @@
 * 提取码: rvrh 
 
 **新手入门必看**
-* 链接：https://pan.baidu.com/s/1LAt09YIZbWB_cFhbx-T3Yw 
-* 提取码: qpz4
+* 链接：https://pan.baidu.com/s/1EySU3rlSIUopF1n5_OVw_g 
+* 提取码: 95i6
 
 ## 刷机工具下载
 
