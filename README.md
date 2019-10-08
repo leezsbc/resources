@@ -43,7 +43,7 @@
 
 * 链接：https://pan.baidu.com/s/1DSzWPoO3x_eipz7nxIFgog
 * 提取码：wnyn
-* 账户名：Leez 密码：Leez
+* 账户名：boot 密码：leez
 ## 开源代码
 
 **Linux源码**
