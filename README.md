@@ -96,6 +96,7 @@
 
 **7. 如何切换音频输出？**
 * Leez P710连接HDMI显示器，以及通过USB Type C接口连接的显示器，默认会优先于耳际插座输出声音（闹钟功能除外）。如果需要将声音切换到非默认的声音输出设备，可以使用第三方软件进行切换，例如Soundabout软件. 
+* 链接：https://pan.baidu.com/s/14cUMqCnMOo8eF3VH1fpM3Q 提取码：s7bd 
 
 **8. Leez P710有MIC模块吗？**
 * 板子未安装模拟MIC, 需要此功能的用户可自行安装模拟MIC或I2S外置声卡模块。
