@@ -95,7 +95,7 @@
 * 当TF卡上装有Android9.0, 且eMMC也同时装了可启动的系统时，系统启动会失败，这是当前Rockchip的limitation。
 
 **7. 如何切换音频输出？**
-* Leez P710连接HDMI显示器，以及通过USB Type C接口连接的显示器，默认会优先于耳际插座输出声音（闹钟功能除外）。如果需要将声音切换到非默认的声音输出设备，可以使用第三方软件进行切换，例如Soundabout软件. 
+* Leez P710连接HDMI显示器，以及通过USB Type C接口连接的显示器，默认会优先于耳际插座输出声音（闹钟功能除外）。如果需要将声音切换到非默认的声音输出设备，可以使用第三方软件进行切换，例如Soundabout软件（Media audio设置选择Earpiece）. 
 * 链接：https://pan.baidu.com/s/14cUMqCnMOo8eF3VH1fpM3Q 提取码：s7bd 
 
 **8. Leez P710有MIC模块吗？**
