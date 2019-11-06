@@ -1,7 +1,8 @@
 ## 产品概述
 
 **Leez P710硬件规格书（包括接口布局和尺寸）**
-* 链接：https://github.com/leezsbc/resources/blob/master/%E6%A0%97%E5%AD%90%E6%9D%BFP710%E7%A1%AC%E4%BB%B6%E8%A7%84%E6%A0%BC%E4%B9%A6V1.1.pdf
+链接: https://pan.baidu.com/s/1ojor1_3KWzs9axlsLNRIMQ
+提取码: 23t9
 
 **Leez P710原理图**
 * 链接: https://pan.baidu.com/s/1NPWbuI5csT4zftKUCnRs7g 
