@@ -59,11 +59,6 @@
 * 提取码: 6amw 
 
 
-**Leez P710_SDK使用**
-* 链接: https://github.com/jackeyt/my_wiki/blob/master/docs/LeezPi-RK3399_SDK%E4%BD%BF%E7%94%A8.md
-
-**Leez P710_Android9编译说明**
-* 链接: https://github.com/jackeyt/my_wiki/blob/master/docs/LeezPi-RK3399_Android9%E7%BC%96%E8%AF%91%E8%AF%B4%E6%98%8E.md
 
 ## Sample APP
 
