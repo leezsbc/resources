@@ -1,4 +1,4 @@
-## 产品概述
+## 产品概述 P710/PR70
 
 **Leez P710硬件规格书（包括接口布局和尺寸）**
 * 链接：https://pan.baidu.com/s/1Hxv-7EowJwjYwrcl5t6ZYg 
