@@ -122,3 +122,5 @@ EM05有两种版本，一种是标准版本，默认是MBIM，主要是用在win
 
 **16. 目前Leez P710支持哪些TF卡？**
 * Samsung 32G TF C10；Samsung 64G TF C10；Samsung 128G TF C10；SanDisk 32G TF C10；SanDisk 64G TF C10；SanDisk 128G TF C10
+
+更多见wiki
