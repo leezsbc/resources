@@ -50,7 +50,7 @@
 **Linux源码**
 * 链接: https://github.com/leez-SBC
 
-**Android7源码**
+**Android7.1源码**
 * 链接:链接: https://pan.baidu.com/s/1wpuzONthnL_Dg5NBb3HMNQ 
 * 提取码: 474y 
 
