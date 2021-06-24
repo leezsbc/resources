@@ -42,9 +42,9 @@
 
 **DebianFS_Leez**
 
-* 链接：https://pan.baidu.com/s/1DSzWPoO3x_eipz7nxIFgog
-* 提取码：wnyn
+* 链接：https://pan.baidu.com/s/1qLiJisFIPOrPhiA-27GI1w 提取码: 7si9 
 * 账户名：root 密码：leez
+
 ## 开源代码
 
 **Linux源码**
